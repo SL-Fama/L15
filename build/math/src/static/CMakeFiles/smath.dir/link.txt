@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsmath.easymath CMakeFiles/smath.dir/add.cpp.o CMakeFiles/smath.dir/divide.cpp.o CMakeFiles/smath.dir/mult.cpp.o CMakeFiles/smath.dir/sub.cpp.o
-/usr/bin/ranlib libsmath.easymath
