@@ -1,0 +1,1 @@
+/opt/homebrew/opt/ccache/libexec/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -L/opt/homebrew/lib -o dmathdmath.dylib -install_name @rpath/dmathdmath.dylib CMakeFiles/dmath.dir/factorial.cpp.o CMakeFiles/dmath.dir/logarithm.cpp.o
